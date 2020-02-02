@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "561080501906",
+    "firebase_url": "https://rasayel-d9db1.firebaseio.com",
+    "project_id": "rasayel-d9db1",
+    "storage_bucket": "rasayel-d9db1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561080501906:android:32700a72aac4864580484b",
+        "android_client_info": {
+          "package_name": "com.toleenalward.rasayel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561080501906-0dsslvv4vr0fk5kpn4me74en2ulqsphp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.toleenalward.rasayel",
+            "certificate_hash": "8dbb369eaa1dd42b5738a939997a0f121e92ad4b"
+          }
+        },
+        {
+          "client_id": "561080501906-q93alo6u96hu95fmudfji0jd2jkdb4i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeklk4R92RhhXDfk2Sc32wQ0-k1M_m97E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561080501906-q93alo6u96hu95fmudfji0jd2jkdb4i1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
